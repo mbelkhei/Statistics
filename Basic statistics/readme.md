@@ -1,4 +1,4 @@
-# Basic Statistisc
+# Basic Statistics
 
 This file goes through the following:
 
